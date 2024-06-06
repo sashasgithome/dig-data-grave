@@ -1,4 +1,4 @@
-# DataAcquisitionExploration-WebScraping
+# Data Acquisition / Exploration
 
 #### ⭐ Project Name : Acquiring & Exploring Data with Web-Scraping
 #### ⌛ Related Class : Machine Learning
